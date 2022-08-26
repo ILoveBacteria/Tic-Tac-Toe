@@ -13,3 +13,11 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+
+void MainWindow::on_newGameButton_clicked()
+{
+    hide();
+    gameWindow = new GameWindow();
+    gameWindow->show();
+}
+
