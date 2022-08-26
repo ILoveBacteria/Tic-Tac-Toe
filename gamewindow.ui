@@ -13,7 +13,7 @@
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="button20">
    <property name="geometry">
     <rect>
      <x>30</x>
@@ -22,11 +22,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
@@ -41,7 +46,7 @@
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="button21">
    <property name="geometry">
     <rect>
      <x>153</x>
@@ -50,11 +55,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
@@ -69,7 +79,7 @@
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_3">
+  <widget class="QPushButton" name="button22">
    <property name="geometry">
     <rect>
      <x>270</x>
@@ -78,11 +88,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
@@ -97,7 +112,7 @@
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_4">
+  <widget class="QPushButton" name="button12">
    <property name="geometry">
     <rect>
      <x>270</x>
@@ -106,11 +121,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
@@ -125,7 +145,7 @@
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_5">
+  <widget class="QPushButton" name="button02">
    <property name="geometry">
     <rect>
      <x>270</x>
@@ -134,11 +154,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
@@ -153,7 +178,7 @@
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_6">
+  <widget class="QPushButton" name="button01">
    <property name="geometry">
     <rect>
      <x>153</x>
@@ -162,11 +187,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
@@ -181,7 +211,7 @@
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_7">
+  <widget class="QPushButton" name="button11">
    <property name="geometry">
     <rect>
      <x>153</x>
@@ -190,11 +220,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
@@ -209,7 +244,7 @@
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_8">
+  <widget class="QPushButton" name="button10">
    <property name="geometry">
     <rect>
      <x>30</x>
@@ -218,11 +253,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
@@ -237,7 +277,7 @@
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_9">
+  <widget class="QPushButton" name="button00">
    <property name="geometry">
     <rect>
      <x>30</x>
@@ -246,11 +286,16 @@
      <height>90</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>36</pointsize>
+    </font>
+   </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string/>
    </property>
    <property name="checkable">
     <bool>false</bool>
