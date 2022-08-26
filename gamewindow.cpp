@@ -12,3 +12,9 @@ GameWindow::~GameWindow()
 {
     delete ui;
 }
+
+void GameWindow::on_pushButton_clicked()
+{
+    ui->pushButton->setText("pressed!");
+}
+
