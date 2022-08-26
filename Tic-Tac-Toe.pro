@@ -14,6 +14,7 @@ SOURCES += \
     mainwindow.cpp
 
 HEADERS += \
+    game.h \
     gamewindow.h \
     mainwindow.h
 
