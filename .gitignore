@@ -73,3 +73,7 @@ Thumbs.db
 
 # Clion
 /.idea
+
+# Other
+/assets/images/*.psd
+/assets/github/*.psd
