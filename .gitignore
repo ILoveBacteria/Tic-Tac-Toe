@@ -77,3 +77,4 @@ Thumbs.db
 # Other
 /assets/images/*.psd
 /assets/github/*.psd
+*.iss
