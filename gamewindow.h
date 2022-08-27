@@ -38,6 +38,8 @@ private slots:
 private:
     Ui::GameWindow *ui;
     Game *game = new Game();
+    void disableAllButtons();
+    void checkEndOfGame();
 };
 
 #endif // GAMEWINDOW_H
