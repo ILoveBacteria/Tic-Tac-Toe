@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Main Menu</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="newGameButton">
@@ -40,13 +40,15 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/asus/Pictures/MainWindowPicture.png</pixmap>
+     <pixmap resource="assets/qtResource.qrc">:/images/MainWindowPicture.png</pixmap>
     </property>
    </widget>
    <zorder>label</zorder>
    <zorder>newGameButton</zorder>
   </widget>
  </widget>
- <resources/>
+ <resources>
+  <include location="assets/qtResource.qrc"/>
+ </resources>
  <connections/>
 </ui>
